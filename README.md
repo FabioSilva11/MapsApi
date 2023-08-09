@@ -13,7 +13,7 @@ Este é um exemplo de código HTML que utiliza a biblioteca Mapbox GL JS para ex
 4. Para definir a localização inicial do mapa, você pode passar as coordenadas através da URL. Use os parâmetros de consulta `lat` (latitude) e `lng` (longitude). Por exemplo:
 
    ```
-   [mapbox-custom-location.html?lat=-3.3275&lng=-61.2089](https://fabiosilva11.github.io/MapsApi/?lat=-3.3275&lng=-61.2089)
+   https://fabiosilva11.github.io/MapsApi/?lat=-3.3275&lng=-61.2089
    ```
 
    Substitua os valores de `lat` e `lng` pelos valores desejados.
